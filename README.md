@@ -1,6 +1,6 @@
 # Guess
 
-**TODO: Add description**
+**The game consists of you choosing a difficulty and guessing the computer number.**
 
 ## Installation
 
